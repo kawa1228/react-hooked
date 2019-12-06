@@ -1,3 +1,7 @@
+/**
+ * 映画のタイトル・画像を表示するプレゼンテーションコンポーネント（内部stateなし）
+ * APIには一部画像がないため、プレースホルダー用画像を用意しておく
+ */
 import React from "react"
 
 const DEFAULT_PLACEHOLDER_IMAGE =
